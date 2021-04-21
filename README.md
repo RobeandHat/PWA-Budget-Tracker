@@ -1,4 +1,4 @@
-# Workout-Tracker
+# Budget Tracker
 
 ![badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
@@ -17,7 +17,7 @@
 
 ## Project Description
 
-This is an application that allows for the user to keep track of their transactions. A chart tracks their total funds over time. It is a PWA application and allows for offline caching of data. 
+This is an application that allows for the user to keep track of their transactions. A chart tracks their total funds over time. It is a PWA application and allows for offline caching of data.
 
 ---
 
@@ -29,7 +29,7 @@ Type "npm i" in the terminal to download the necessary node modules.
 
 ## Usage information
 
-Enter the transaction name, the transaction amount, and choose whether to add or subtract funds. 
+Enter the transaction name, the transaction amount, and choose whether to add or subtract funds.
 
 ---
 
